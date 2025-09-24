@@ -1,3 +1,2 @@
 # My Portfolio
-
-Vibecoded with gemini-cli and Astro
+Made using [Fuwari](https://github.com/saicaca/fuwari)
