@@ -1,7 +1,7 @@
 ---
 title: Rush
-published: 2025-08-16
-description: Search, Save and Share Lyrics like Spotify!
+published: 2024-08-16
+description: ✨️ Search, Save and Share Lyrics like Spotify!
 tags: [Android, Jetpack Compose, Kotlin, Koin, Ktor-client, Room]
 category: Apps
 draft: false

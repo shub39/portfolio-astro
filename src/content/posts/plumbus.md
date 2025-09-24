@@ -1,7 +1,7 @@
 ---
 title: Plumbus
-published: 2025-08-16
-description: Browse info on Rick and Morty universe
+published: 2024-12-16
+description: 🪠 Browse info on Rick and Morty universe
 tags: [Android, Jetpack Compose, Kotlin, Koin, Room, Ktor-client, Kotlin Multiplatform, Compose Multiplatform]
 category: Apps
 draft: false

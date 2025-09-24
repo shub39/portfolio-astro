@@ -1,7 +1,7 @@
 ---
 title: Grit
-published: 2025-08-16
-description: A simple ToDo List and Habit Tracker
+published: 2024-09-16
+description: 🛠️ A simple ToDo List and Habit Tracker
 tags: [Android, Jetpack Compose, Kotlin, Koin, Room, AlarmManager, Notifications]
 category: Apps
 draft: false

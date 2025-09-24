@@ -1,7 +1,7 @@
 ---
 title: Dharmik
-published: 2025-08-16
-description: App to browse the bhagavad gita
+published: 2025-05-16
+description: 🛕 App to browse the bhagavad gita
 tags: [Android, Jetpack Compose, Kotlin, Kotlin Multiplatform, Compose Multiplatform, Koin, Room]
 category: Apps
 draft: false

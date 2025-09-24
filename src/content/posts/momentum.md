@@ -1,7 +1,7 @@
 ---
 title: Momentum
 published: 2025-08-16
-description: App to create cool montages easily
+description: 🌿 App to create cool montages easily
 tags: [Android, Jetpack Compose, Kotlin, Koin, Room, AlarmManager, Notifications, MlKit]
 category: Apps
 draft: false
