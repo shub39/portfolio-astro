@@ -1,21 +1,20 @@
 ---
 title: Momentum
 published: 2025-08-16
-description: 🌿 App to create cool montages easily
-tags: [Android, Jetpack Compose, Kotlin, Koin, Room, AlarmManager, Notifications, MlKit]
+description: 🌿 App to create cool montages easily made for Revenuecat Shipaton 2025
+tags: [Android, Jetpack Compose, Kotlin, Koin, Room, AlarmManager, Notifications, MlKit, Shipaton]
 category: Apps
 draft: false
 ---
 
+## Link to [Devpost](https://devpost.com/software/momentum-m95t6u)
 ::github{repo="shub39/Momentum"}
-
 ## Download from [Google Play](https://play.google.com/store/apps/details?id=shub39.momentum.play)
 
 ## Screenshots 📱
-| ![1](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![2](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) |
-|:-:|:-:|
-| ![3](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![4](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
-| ![5](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png) | ![6](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png) |
+| ![1](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![2](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![3](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
+|:-:|:-:|:-:|
+| ![4](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) | ![5](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png) | ![6](https://raw.githubusercontent.com/shub39/Momentum/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png) |
 
 ## Features ✨
 - Montage maker with customisations

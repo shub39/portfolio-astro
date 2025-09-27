@@ -64,6 +64,16 @@ export const profileConfig: ProfileConfig = {
 			url: "https://x.com/_shub39",
 		},
 		{
+			name: "BlueSky",
+			icon: "fa6-brands:bluesky",
+			url: "https://bsky.app/profile/shub39",
+		},
+		{
+			name: "GitHub",
+			icon: "fa6-brands:github",
+			url: "https://github.com/shub39.bsky.social",
+		},
+		{
 			name: "LinkedIn",
 			icon: "fa6-brands:linkedin",
 			url: "https://www.linkedin.com/in/shub39/",
@@ -73,6 +83,16 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:google-play",
 			url: "https://play.google.com/store/apps/dev?id=7686696368453505767",
 		},
+		{
+			name: "Instagram",
+			icon: "fa6-brands:instagram",
+			url: "https://www.instagram.com/_shub39/",
+		},
+		{
+			name: "YouTube",
+			icon: "fa6-brands:youtube",
+			url: "https://youtube.com/@shub39",
+		}
 	],
 };
 
