@@ -66,7 +66,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "BlueSky",
 			icon: "fa6-brands:bluesky",
-			url: "https://bsky.app/profile/shub39",
+			url: "https://bsky.app/profile/shub39.bsky.social",
 		},
 		{
 			name: "LinkedIn",
