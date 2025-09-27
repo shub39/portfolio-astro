@@ -69,11 +69,6 @@ export const profileConfig: ProfileConfig = {
 			url: "https://bsky.app/profile/shub39",
 		},
 		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/shub39.bsky.social",
-		},
-		{
 			name: "LinkedIn",
 			icon: "fa6-brands:linkedin",
 			url: "https://www.linkedin.com/in/shub39/",
