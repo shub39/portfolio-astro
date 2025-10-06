@@ -1,7 +1,7 @@
 ---
 title: Biometric Attendance
 published: 2023-12-16
-description: 👾 Attempt at a Biometric attendance system with raspberry pi. Written in Rust 
+description: 👾 Fingerprint attendance system with Raspberry pi
 tags: [IoT, Raspberry Pi, Python]
 category: Experiments
 image: https://github.com/shub39/fingerprint_attendance/assets/143277026/77be40a7-a433-4962-ad2a-fb686d6630e4
