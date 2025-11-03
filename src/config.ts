@@ -79,11 +79,6 @@ export const profileConfig: ProfileConfig = {
 			url: "https://play.google.com/store/apps/dev?id=7686696368453505767",
 		},
 		{
-			name: "Instagram",
-			icon: "fa6-brands:instagram",
-			url: "https://www.instagram.com/_shub39/",
-		},
-		{
 			name: "YouTube",
 			icon: "fa6-brands:youtube",
 			url: "https://youtube.com/@shub39",
