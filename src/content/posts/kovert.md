@@ -7,7 +7,15 @@ category: Apps
 draft: false
 ---
 
-<iframe width="100%" height="468" src="https://www.youtube.com/watch?v=w2tUwhtVECY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe
+  width="100%"
+  height="468"
+  src="https://www.youtube.com/embed/w2tUwhtVECY"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 Kovert is an AI-powered social engineering game built with Kotlin Multiplatform. 
 The game challenges you to uncover a secret by interacting with an AI agent powered by Ollama.
