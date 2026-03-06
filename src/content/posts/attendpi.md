@@ -1,7 +1,7 @@
 ---
 title: AttendPi
 published: 2025-07-16
-description: 👾 Attempt at a Biometric attendance system with raspberry pi. Written in Rust 
+description: Attempt at a Biometric attendance system with Raspberry Pi. Written in Rust 
 tags: [IoT, Raspberry Pi, Rust]
 category: Experiments
 image: https://raw.githubusercontent.com/shub39/attendpi/refs/heads/master/pics/2.jpg
