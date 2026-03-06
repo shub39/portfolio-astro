@@ -2,7 +2,7 @@
 title: RpiAttendance
 published: 2026-02-10
 description: A full fledged biometric attendance system for Raspberry Pi
-tags: [Android, Jetpack Compose, Kotlin, Koin, Room, Kotlin Multiplatform, Compose Multiplatform, Raspberry Pi, IoT, Python]
+tags: [Linux, Android, Kotlin, KMP, Raspberry Pi, IoT, Python]
 category: Projects
 image: https://raw.githubusercontent.com/shub39/RpiAttendance/master/screenshots/pic.jpg
 draft: false
