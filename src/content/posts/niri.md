@@ -45,4 +45,15 @@ Eventually they added support for it and I made the switch as soon as I could. I
 all my active workspaces and a screenshot utility baked in are really nice. Especially in Android Studio, my workflow has significantly improved. I use a single 27 inch monitor and viewing every part of my workflow was difficult on hyprland. Now I can easily isolate the emulator, the file window, the terminal, the debugger, and all studio stuff in a single workspace and easily scroll/sweep through them. Same for every other application. 
 
 I am using Quickshell for the Bar and widgets and while I am still getting used to it, It works really well with Niri. It consumes a bit more RAM than
-just using rofi and waybar but its infinitely more customizable. I think I'll stick with this for years to come. 
+just using rofi and waybar but its infinitely more customizable. I think I'll stick with this for years to come.
+
+Here's a video of me yapping about the switch.
+
+<iframe
+  width="100%"
+  height="468"
+  src="https://www.youtube.com/embed/RHkHDvBkgUc"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
