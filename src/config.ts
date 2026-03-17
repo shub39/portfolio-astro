@@ -57,18 +57,6 @@ export const profileConfig: ProfileConfig = {
 	bio: "Android/KMP Dev and Linux Nerd",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://x.com/_shub39",
-		},
-		{
-			name: "BlueSky",
-			icon: "fa6-brands:bluesky",
-			url: "https://bsky.app/profile/shub39.bsky.social",
-		},
-		{
 			name: "LinkedIn",
 			icon: "fa6-brands:linkedin",
 			url: "https://www.linkedin.com/in/shub39/",
@@ -82,6 +70,11 @@ export const profileConfig: ProfileConfig = {
 			name: "YouTube",
 			icon: "fa6-brands:youtube",
 			url: "https://youtube.com/@shub39",
+    },
+    {
+      name: "Instagram",
+      icon: "fa6-brands:instagram",
+      url: "https://instagram.com/_shub39",
 		}
 	],
 };
